@@ -1,0 +1,5 @@
+name=input("enter your name:")
+print(f"hello{name} ")
+num=float(input("enter number"))
+print(f"you entered {num}")
+print(f"data type of num:{type(num)}")
